@@ -71,3 +71,31 @@ console.table ([boolOut, boolLog])
 
 
 //-----------------------------------
+
+//************ Operations ***********
+/*
+let value = 3
+let negValue = -value
+
+console.log(negValue);
+
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+"2");
+console.log(1+2+"2");
+console.log("1"+"2"+2);
+*/
+let scoreBoard = 99;
+
+
+//---precidence operators---
+
+
+// postfix operator
+scoreBoard++;
+console.log("postfix score ",scoreBoard);
+
+// prefix operator
+++scoreBoard;
+console.log("prefix score ",scoreBoard);
