@@ -35,3 +35,11 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//******* speacial datatypes********
+
+//#stacks (primitive)
+//#heaps (non - primitive)
+
+// stacks and heaps difference diagram (https://drive.google.com/file/d/16Il67dlIQzF7GmF2CanKAztk6nnTvjCp/view?usp=sharing)
